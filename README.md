@@ -1,5 +1,8 @@
 # liri-node-app
 ## Submission
+<img src="./Submission1">
+<img src="./Submission2">
+<img src="./Submission3">
 
 ### Instructions
 1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
